@@ -1,6 +1,7 @@
 # DATATHON_DERMATITE_ATOPICA
 
 ## Repositório com códigos em Python e Dashboard Final em Power B.I. para o Desafio Datathon: O impacto da Dermatite Atópica na Saúde Pública
+## Os Python Notebooks foram escritos no ambiente Google Colab
 
 ## Equipe: Data+
 
@@ -18,3 +19,7 @@ Nome do arquivo: Conver_SIH_DermAtop_FINAL.ipynb
 * Confecção dos dashboards com o material reunido utilizando Power B.I.
 
 Nome do arquivo: Proj_Derm_Atop_V3.pbix 
+
+## Link para os arquivos fornecidos pela organização do evento: 
+
+https://datathon-dermatite.s3.sa-east-1.amazonaws.com/index.html
