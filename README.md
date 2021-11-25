@@ -17,4 +17,5 @@ Nome do arquivo: Conver_SIH_DermAtop_FINAL.ipynb
 
 * Confecção dos dashboards com o material reunido utilizando Power B.I.
 
-Nome do arquivo: Proj_Derm_Atop_V3.pbix 
+Link para o dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzkyMzhkNWYtODMxNi00MmZjLWFkNjgtNDRlMjBiZDA5MGFkIiwidCI6IjVkZDZhYTUxLWUwNDktNGRiOS1hOWM0LTIxZGU2YjUxZTE1NSJ9&pageName=ReportSectionf10d9e2257a105cabcb6
+
