@@ -23,3 +23,5 @@ Nome do arquivo: Proj_Derm_Atop_V3.pbix
 ## Link para os arquivos fornecidos pela organização do evento: 
 
 https://datathon-dermatite.s3.sa-east-1.amazonaws.com/index.html
+
+Os arquivos .csv utilizados com dados sobre População e PIB municipais foram obtidos pelo SIDRA do IBGE 
